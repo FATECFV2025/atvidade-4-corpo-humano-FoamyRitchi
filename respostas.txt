@@ -1,0 +1,3 @@
+2.1: A linha c1.massa não funciona, pois massa não pode ser acessada por estar encapsulada.
+2.2: Após mudar de private pra public, a variável pode ser acessada dentro de outros arquivos.
+2.3: Após mudar pra private a linha setVolume(double volume), não é mais possível utilizar o volume dentro de outras classes.  
